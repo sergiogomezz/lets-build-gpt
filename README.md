@@ -1,2 +1,2 @@
 # lets-build-gpt
-Repo for building GPT from scratch -- educational purpose
+Repo for building GPT from scratch by myself -- educational purpose
